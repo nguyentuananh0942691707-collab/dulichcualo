@@ -1,0 +1,26 @@
+.hero-section {
+background: url(../images/biencualo.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 80vh;
+}
+.card-img-custom {
+height: 200px;
+width: 100%;
+object-fit: cover;
+object-position: center;
+}
+.text-star {
+color: rgb(12, 176, 126);
+}
+ul.list-unstyled a {
+color: inherit; /* Thẻ a nhận màu chữ từ phần tử cha */
+text-decoration: none; /* Bỏ gạch chân mặc định của liên kết */
+}
+.avatar-img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+}
